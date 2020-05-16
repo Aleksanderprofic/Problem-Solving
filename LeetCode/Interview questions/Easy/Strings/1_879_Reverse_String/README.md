@@ -16,7 +16,6 @@ You may assume all the characters consist of printable ascii characters.
 
     Input: ["H","a","n","n","a","h"]
     Output: ["h","a","n","n","a","H"]
-    
-|Python file|% result vs other submissions|Runtime and memory usage|
-|:---:|:---:|:---:|
-|solution.py|![Result 1](img/result1.png)|![Result 2](img/result2.png)|
+ 
+   
+My solution is the best possible solution.
