@@ -23,7 +23,3 @@ Given two arrays, write a function to compute their intersection.
 - What if nums1's size is small compared to nums2's size? Which algorithm is better?
 - What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?
     
-|Python file|% result vs other submissions|Runtime and memory usage|
-|:---:|:---:|:---:|
-|solution.py|![Result 1](img/result1.png)|![Result 2](img/result2.png)|
-|solution2_better.py|![Better result 1](img/result1_better.png)|![Better result 2](img/result2_better.png)|
