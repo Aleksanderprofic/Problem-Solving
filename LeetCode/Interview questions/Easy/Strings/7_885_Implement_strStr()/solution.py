@@ -1,0 +1,13 @@
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        try:
+            return haystack.index(needle)
+        except ValueError:
+            return -1
+
+
+sol = Solution()
+print(sol.strStr(haystack="hello", needle="ll"))
+print(sol.strStr(haystack="aaaaa", needle="bba"))
+print(sol.strStr(haystack="aaaaa", needle=""))
+
